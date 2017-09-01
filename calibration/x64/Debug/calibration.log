@@ -1,0 +1,12 @@
+﻿  calibration.cpp
+d:\opencv310\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv310\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv310\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv310\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs_ws_2015\calibration\calibration\calibration.cpp(77): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs_ws_2015\calibration\calibration\calibration.cpp(133): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_ws_2015\calibration\calibration\calibration.cpp(134): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\vs_ws_2015\calibration\calibration\calibration.cpp(169): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs_ws_2015\calibration\calibration\calibration.cpp(170): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  calibration.vcxproj -> D:\vs_ws_2015\calibration\x64\Debug\calibration.exe
+  calibration.vcxproj -> D:\vs_ws_2015\calibration\x64\Debug\calibration.pdb (Full PDB)
